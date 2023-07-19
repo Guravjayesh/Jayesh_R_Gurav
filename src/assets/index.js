@@ -20,7 +20,8 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
-import Linkedin from "./Linkedin.png"
+import Linkedin from "./Linkedin.png";
+import JAYESH from "./JAYESH.jpg";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -60,5 +61,6 @@ export {
   carrent,
   jobit,
   tripguide,
-  Linkedin
+  Linkedin,
+  JAYESH
 };

@@ -1,6 +1,7 @@
 import React from "react";
 import Tilt from "react-parallax-tilt";
 import { motion } from "framer-motion";
+import { JAYESH } from "../assets";
 
 import { styles } from "../styles";
 import { services } from "../constants";
@@ -68,7 +69,7 @@ const About = () => {
 
       </motion.p>
       <div  className="mt-4 flex flex-wrap gap-8 ">
-        <img src="..\src\assets\JAYESH.jpg" alt="" style={{ borderRadius: '50%', border: '10px solid', marginLeft: '2px',marginTop: '-15px' }}/>
+        <img src={ JAYESH } alt="" style={{ borderRadius: '50%', border: '10px solid', marginLeft: '2px',marginTop: '-15px' }}/>
       </div>
       </div>
       {/* <br/>
