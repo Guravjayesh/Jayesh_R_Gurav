@@ -69,7 +69,7 @@ const About = () => {
       </motion.p>
       <div  className="mt-4 flex flex-wrap gap-8 ">
         
-        <img src="src/assets/JAYESH.jpg" alt="" style={{ borderRadius: '50%', border: '10px solid', marginLeft: '2px',marginTop: '-15px' }}/>
+        <img src="https://github.com/Guravjayesh/Jayesh_R_Gurav/blob/main/src/assets/JAYESH.jpg" alt="" style={{ borderRadius: '50%', border: '10px solid', marginLeft: '2px',marginTop: '-15px' }}/>
       </div>
       </div>
       {/* <br/>
