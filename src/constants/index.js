@@ -273,25 +273,46 @@ import {
       source_code_link: "https://github.com/Guravjayesh/WhatsappChat-Analyzer--updated-version",
     },
     {
-      name: "Job IT",
+      name: "Smart India Hackathon",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "I contributed to the NAUTICA team by utilizing the Intel RealSense Depth Cam and FLIR thermal vision camera for underground object detection and distance measurement. this enabled precise identification and localization of subterranean objects",
       tags: [
         {
-          name: "react",
+          name: "Intel realsense cam",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "Jetson Nano",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "thermal cam",
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: "https://images.shiksha.com/mediadata/images/articles/1661251505phpPvaHoY.jpeg",
+      source_code_link: "https://github.com/Guravjayesh/NAUTICA---DEPTH-CAM-OBJECT-DETECTION",
+    },
+    {
+      name: "Walmart Data Analysis",
+      description:
+        "A full-stack to analyze Walmart's data based on gender and age classification. The tools used in this project include HTML, Bootstrap, Ajax, Flask, and MySQL",
+      tags: [
+        {
+          name: "Bootstrap",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Ajax",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Flask",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: "https://www.dailyexcelsior.com/wp-content/uploads/2017/04/wal-mart.jpg",
+      source_code_link: "https://github.com/Guravjayesh/Walmart_Data_Analysis",
     },
   ];
 
