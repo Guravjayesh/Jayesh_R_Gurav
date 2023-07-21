@@ -75,8 +75,31 @@ const Contact = () => {
         className='flex-[0.75] bg-black-100 p-8 rounded-2xl'
       >
         <p className={styles.sectionHeadText}>contact me</p>
-        <h5 className={styles.SectionWrapper}>gmail:</h5>
-        <h1 className={styles.sectionSubText}>connectjayeshgurav@gmail.com</h1>
+        {/* <h5 className={styles.SectionWrapper}>gmail:</h5>
+        <h1 className={styles.sectionSubText}>connectjayeshgurav@gmail.com</h1> */}
+        <h5 className={styles.SectionWrapper}>gmail :</h5>
+        
+        <li className="hover:text-white text-[18px] font-medium cursor-pointer mb-2">
+          <a href="mailto:connectjayeshgurav@gmail.com">
+          connectjayeshgurav@gmail.com
+          </a>
+        </li>
+        <h5 className={styles.SectionWrapper}>Resume :</h5>
+        <li className="hover:text-white text-[18px] font-medium cursor-pointer mb-2">
+            <a href="https://drive.google.com/file/d/1B225Q7gUSiwyP94pQaR9q72rAJtjrAXm/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+              click here to Download my Resume
+            </a>
+          </li>
+        
+        {/* Phone number clickable link */}
+        <h5 className={styles.SectionWrapper}>Phone-no :</h5>
+        <li className="hover:text-white text-lg font-medium cursor-pointer mb-6"> {/* Add mb-4 for a 4-pixel margin-bottom */}
+              6362831565
+        </li>
+        {/* <h5 className={styles.SectionWrapper}>Phone:</h5>
+        <h1 className="hover:text-white text-[18px] font-medium cursor-pointer">6362831565</h1> */}
+
+
 
         {/*
         <form
@@ -127,7 +150,7 @@ const Contact = () => {
           
         </form> */}
 
-        
+
 
 
 
@@ -139,12 +162,12 @@ const Contact = () => {
         // className='xl:flex-1 xl:h-auto md:h-[550px] h-[350px]'
         className='xl:flex-1 xl:h-auto md:h-[550px] h-[350px]'
       >
-      
+
         <EarthCanvas />
 
       </motion.div>
     </div>
-    
+
 
   );
 };
