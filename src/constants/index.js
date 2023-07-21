@@ -275,7 +275,7 @@ import {
     {
       name: "Smart India Hackathon",
       description:
-        "I contributed to the NAUTICA team by utilizing the Intel RealSense Depth Cam and FLIR thermal vision camera for underground object detection and distance measurement. this enabled precise identification and localization of subterranean objects",
+        " supported the NAUTICA team in utilizing Intel RealSense Depth Cam and FLIR thermal vision camera for precise underground object detection and localization",
       tags: [
         {
           name: "Intel realsense cam",
@@ -285,10 +285,7 @@ import {
           name: "Jetson Nano",
           color: "green-text-gradient",
         },
-        {
-          name: "thermal cam",
-          color: "pink-text-gradient",
-        },
+        
       ],
       image: "https://images.shiksha.com/mediadata/images/articles/1661251505phpPvaHoY.jpeg",
       source_code_link: "https://github.com/Guravjayesh/NAUTICA---DEPTH-CAM-OBJECT-DETECTION",
@@ -322,7 +319,7 @@ import {
     {
       name: "LINUX WORKSHOP",
       description:
-        "As a Robotics Team lead at team challengers we had conducted the linux workshop for all juniors who were willing to learn things",
+        "As a Robotics Team lead at Team Challengers, we had conducted the Linux workshop for all juniors who were willing to learn things, fostering an environment of knowledge sharing and skill development",
       tags: [
         {
           name: "Team Challengers",
@@ -348,25 +345,25 @@ import {
         
       ],
       image: "https://media.licdn.com/dms/image/C5622AQErS-J6FcmTqw/feedshare-shrink_1280/0/1668518875731?e=1691625600&v=beta&t=vobDBInGcRsHnhNMbh3pb3RmMWjh-UH8YM7lr3qy1UQ",
-      
+      Linkedin_link: "https://www.linkedin.com/in/jayesh-gurav-6003a4215/"
     },
     {
-      name: "Aerophilia 2022",
+      name: "INTERRNSHIP ON AI-ML-DL",
       description:
-        "As a Ninja Entrepreneur and Coding Event Lead in Aerophilia 2022, I had the privilege of spearheading the collaborative efforts to organize two prominent events, namely Man vs Bug and Blind Coding, within the college",
+        "During the lockdown, I completed a 90-day internship in Machine Learning, Artificial Intelligence, and Data Analytics, gaining hands-on experience through diverse projects",
       tags: [
         {
-          name: "Aerophilia-2022",
+          name: "AI-ML-DL",
           color: "blue-text-gradient",
         },
         {
-          name: "Ninja-Enterprenuer",
+          name: "Pantech Solutions",
           color: "green-text-gradient",
         },
         
       ],
-      image: "",
-      
+      image: "https://www.pantechelearning.com/wp-content/uploads/2021/02/Machine-Learning-Internship-05-02-2021.jpg",
+      Linkedin_link: "https://www.linkedin.com/in/jayesh-gurav-6003a4215/"
     },
   ];
   
