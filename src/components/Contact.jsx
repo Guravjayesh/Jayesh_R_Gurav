@@ -77,6 +77,12 @@ const Contact = () => {
         <p className={styles.sectionHeadText}>contact me</p>
         {/* <h5 className={styles.SectionWrapper}>gmail:</h5>
         <h1 className={styles.sectionSubText}>connectjayeshgurav@gmail.com</h1> */}
+        <h5 className={styles.SectionWrapper}>Resume :</h5>
+        <li className="hover:text-white text-[18px] font-medium cursor-pointer mb-2">
+            <a href="https://drive.google.com/file/d/1B225Q7gUSiwyP94pQaR9q72rAJtjrAXm/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+              click here to Download my Resume
+            </a>
+          </li>
         <h5 className={styles.SectionWrapper}>gmail :</h5>
         
         <li className="hover:text-white text-[18px] font-medium cursor-pointer mb-2">
@@ -84,12 +90,12 @@ const Contact = () => {
           connectjayeshgurav@gmail.com
           </a>
         </li>
-        <h5 className={styles.SectionWrapper}>Resume :</h5>
+        {/* <h5 className={styles.SectionWrapper}>Resume :</h5>
         <li className="hover:text-white text-[18px] font-medium cursor-pointer mb-2">
             <a href="https://drive.google.com/file/d/1B225Q7gUSiwyP94pQaR9q72rAJtjrAXm/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
               click here to Download my Resume
             </a>
-          </li>
+          </li> */}
         
         {/* Phone number clickable link */}
         <h5 className={styles.SectionWrapper}>Phone-no :</h5>

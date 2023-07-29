@@ -18,7 +18,7 @@ import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
-import typescript from "./tech/typescript.png";
+import typescript from "./tech/typescript.jpg";
 import threejs from "./tech/threejs.svg";
 import Linkedin from "./Linkedin.png";
 import JAYESH from "./JAYESH.jpg";
@@ -31,6 +31,8 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import android from "./tech/android.png";
+import py from "./tech/py.png"
 
 export {
   logo,
@@ -62,5 +64,7 @@ export {
   jobit,
   tripguide,
   Linkedin,
-  JAYESH
+  JAYESH,
+  android,
+  py
 };

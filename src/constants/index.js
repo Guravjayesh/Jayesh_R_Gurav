@@ -23,6 +23,8 @@ import {
     jobit,
     tripguide,
     threejs,
+    android,
+    py
   } from "../assets";
   
   export const navLinks = [
@@ -64,6 +66,19 @@ import {
   
   const technologies = [
     {
+      name: "Node JS",
+      // icon: nodejs,
+      icon: py,
+    },
+    {
+      name: "TypeScript",
+      icon: typescript,
+    },
+    {
+      name: "android",
+      icon: android,
+    },
+    {
       name: "HTML 5",
       icon: html,
     },
@@ -76,24 +91,16 @@ import {
       icon: javascript,
     },
     {
-      name: "TypeScript",
-      icon: typescript,
+      name: "Redux Toolkit",
+      icon: redux,
     },
     {
       name: "React JS",
       icon: reactjs,
     },
     {
-      name: "Redux Toolkit",
-      icon: redux,
-    },
-    {
       name: "Tailwind CSS",
       icon: tailwind,
-    },
-    {
-      name: "Node JS",
-      icon: nodejs,
     },
     {
       name: "MongoDB",
@@ -106,10 +113,6 @@ import {
     {
       name: "git",
       icon: git,
-    },
-    {
-      name: "figma",
-      icon: figma,
     },
     {
       name: "docker",
@@ -247,9 +250,39 @@ import {
       source_code_link: "https://github.com/Guravjayesh/AUTONOMOUS_LANDING-AND-DETECTION",
     },
     {
+      name: "ONLINE GARDEN",
+      description:
+        "Blossom your space with our one-stop e-commerce destination for exquisite flowers and top-quality gardening tools & equipment.",
+      tags: [
+        {
+          name: "Java",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Android",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Firebase",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "Mysql",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Volley",
+          color: "green-text-gradient",
+        },
+      ],
+      // image: "https://play-lh.googleusercontent.com/s89R4abQQ92FS18ISsDRHMlBiw4jmDibyhH8YhTOYr6DvdKEwlXc62rf9VqDNU22ETg=w526-h296-rw",
+      image: "https://images.pexels.com/photos/2928027/pexels-photo-2928027.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      source_code_link: "https://github.com/Guravjayesh/WhatsappChat-Analyzer--updated-version",
+    },
+    {
       name: "Whatsapp Chat Analyzer",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Unlock insights from your conversations. Track chat timings, daily volumes, and gain valuable emoji analysis for a deeper understanding of your messaging patterns.",
       tags: [
         {
           name: "Python",
@@ -259,14 +292,14 @@ import {
           name: "Data Analysis",
           color: "green-text-gradient",
         },
-        {
-          name: "Pandas",
-          color: "pink-text-gradient",
-        },
-        {
-          name: "Matplotlib",
-          color: "green-text-gradient",
-        },
+        // {
+        //   name: "Pandas",
+        //   color: "pink-text-gradient",
+        // },
+        // {
+        //   name: "Matplotlib",
+        //   color: "green-text-gradient",
+        // },
       ],
       // image: "https://play-lh.googleusercontent.com/s89R4abQQ92FS18ISsDRHMlBiw4jmDibyhH8YhTOYr6DvdKEwlXc62rf9VqDNU22ETg=w526-h296-rw",
       image: "https://www.smartprix.com/bytes/wp-content/uploads/2022/08/WhatsApp-about.png",
