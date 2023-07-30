@@ -277,7 +277,7 @@ import {
       ],
       // image: "https://play-lh.googleusercontent.com/s89R4abQQ92FS18ISsDRHMlBiw4jmDibyhH8YhTOYr6DvdKEwlXc62rf9VqDNU22ETg=w526-h296-rw",
       image: "https://images.pexels.com/photos/2928027/pexels-photo-2928027.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      source_code_link: "https://github.com/Guravjayesh/WhatsappChat-Analyzer--updated-version",
+      source_code_link: "https://github.com/Guravjayesh/ONLINE_GARDEN",
     },
     {
       name: "Whatsapp Chat Analyzer",
@@ -326,7 +326,7 @@ import {
     {
       name: "Walmart Data Analysis",
       description:
-        "A full-stack to analyze Walmart's data based on gender and age classification. The tools used in this project include HTML, Bootstrap, Ajax, Flask, and MySQL",
+        "A full-stack app to analyze Walmart's data based on gender and age classification. The tools used in this project include HTML, Bootstrap, Ajax, Flask, and MySQL",
       tags: [
         {
           name: "Bootstrap",

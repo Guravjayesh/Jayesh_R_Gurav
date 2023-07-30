@@ -79,7 +79,7 @@ const Contact = () => {
         <h1 className={styles.sectionSubText}>connectjayeshgurav@gmail.com</h1> */}
         <h5 className={styles.SectionWrapper}>Resume :</h5>
         <li className="hover:text-white text-[18px] font-medium cursor-pointer mb-2">
-            <a href="https://drive.google.com/file/d/1B225Q7gUSiwyP94pQaR9q72rAJtjrAXm/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+            <a href="https://drive.google.com/file/d/14oejD8qiT-LXbOaKWLyyNyMgRxlPKJUI/view?usp=sharing" target="_blank" rel="noopener noreferrer">
               click here to Download my Resume
             </a>
           </li>
