@@ -381,7 +381,7 @@ import {
       Linkedin_link: "https://www.linkedin.com/in/jayesh-gurav-6003a4215/"
     },
     {
-      name: "INTERRNSHIP ON AI-ML-DL",
+      name: "INTERNSHIP ON AI-ML-DL",
       description:
         "During the lockdown, I completed a 90-day internship in Machine Learning, Artificial Intelligence, and Data Analytics, gaining hands-on experience through diverse projects",
       tags: [
