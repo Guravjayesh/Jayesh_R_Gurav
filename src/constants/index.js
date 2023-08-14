@@ -359,7 +359,7 @@ import {
           color: "blue-text-gradient",
         },
       ],
-      image: "https://media.licdn.com/dms/image/C5622AQF4Ef_ZqCUBvw/feedshare-shrink_2048_1536/0/1657818236790?e=1691625600&v=beta&t=ECG09_ENKDIqqaboioqwNJDgwf10QI59l9RZIE_GX0c",
+      image: "https://media.licdn.com/dms/image/C5622AQF4Ef_ZqCUBvw/feedshare-shrink_800/0/1657818236785?e=1694649600&v=beta&t=Z-O6bB6oz7POTfo8wkTRqnzpV6DzlGPU4q4r3z0LUi8",
       Linkedin_link: "https://www.linkedin.com/in/jayesh-gurav-6003a4215/"
     },
     {
