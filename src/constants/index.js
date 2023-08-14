@@ -377,7 +377,7 @@ import {
         },
         
       ],
-      image: "https://media.licdn.com/dms/image/C5622AQErS-J6FcmTqw/feedshare-shrink_1280/0/1668518875731?e=1691625600&v=beta&t=vobDBInGcRsHnhNMbh3pb3RmMWjh-UH8YM7lr3qy1UQ",
+      image: "https://media.licdn.com/dms/image/C5622AQErS-J6FcmTqw/feedshare-shrink_1280/0/1668518875731?e=1694649600&v=beta&t=SK6MAueTuh_w-MxBN4Saa68dL3cu2euVrwZEIFBKeRk",
       Linkedin_link: "https://www.linkedin.com/in/jayesh-gurav-6003a4215/"
     },
     {
