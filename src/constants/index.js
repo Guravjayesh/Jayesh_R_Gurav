@@ -83,7 +83,7 @@ import {
       icon: html,
     },
     {
-      name: "CSS 3",
+      name: "CSS",
       icon: css,
     },
     {
