@@ -75,12 +75,12 @@ import {
       icon: py,
     },
     {
-      name: "TypeScript",
-      icon: java,
-    },
-    {
       name: "android",
       icon: android,
+    },
+    {
+      name: "TypeScript",
+      icon: java,
     },
     {
       name: "HTML 5",
@@ -115,12 +115,12 @@ import {
       icon: threejs,
     },
     {
-      name: "git",
-      icon: git,
-    },
-    {
       name: "c",
       icon: c,
+    },
+    {
+      name: "git",
+      icon: git,
     },
     {
       name: "docker",
