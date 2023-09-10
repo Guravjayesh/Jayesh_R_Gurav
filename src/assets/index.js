@@ -23,7 +23,7 @@ import threejs from "./tech/threejs.svg";
 import Linkedin from "./Linkedin.png";
 import JAYESH from "./JAYESH.jpg";
 import java from "./java.jpg";
-import aerophilia from "./aerophilia.jpeg";
+import aerophilia from "./Aerophilia.jpeg";
 import linuxworkshop from "./linuxworkshop.jpeg";
 import c from "./c.png";
 
