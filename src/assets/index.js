@@ -22,6 +22,10 @@ import typescript from "./tech/typescript.jpg";
 import threejs from "./tech/threejs.svg";
 import Linkedin from "./Linkedin.png";
 import JAYESH from "./JAYESH.jpg";
+import java from "./java.jpg";
+import aerophilia from "./aerophilia.jpeg";
+import linuxworkshop from "./linuxworkshop.jpeg";
+import c from "./c.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -66,5 +70,9 @@ export {
   Linkedin,
   JAYESH,
   android,
-  py
+  py,
+  java,
+  aerophilia,
+  linuxworkshop,
+  c
 };

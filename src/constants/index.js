@@ -24,7 +24,11 @@ import {
     tripguide,
     threejs,
     android,
-    py
+    py,
+    java,
+    aerophilia,
+    linuxworkshop,
+    c
   } from "../assets";
   
   export const navLinks = [
@@ -72,7 +76,7 @@ import {
     },
     {
       name: "TypeScript",
-      icon: typescript,
+      icon: java,
     },
     {
       name: "android",
@@ -102,10 +106,10 @@ import {
       name: "Tailwind CSS",
       icon: tailwind,
     },
-    {
-      name: "MongoDB",
-      icon: mongodb,
-    },
+    // {
+    //   name: "MongoDB",
+    //   icon: mongodb,
+    // },
     {
       name: "Three JS",
       icon: threejs,
@@ -115,9 +119,13 @@ import {
       icon: git,
     },
     {
-      name: "docker",
-      icon: docker,
+      name: "c",
+      icon: c,
     },
+    {
+      name: "docker",
+      icon: typescript,
+    }
   ];
   
   const experiences = [
@@ -359,7 +367,8 @@ import {
           color: "blue-text-gradient",
         },
       ],
-      image: "https://media.licdn.com/dms/image/C5622AQF4Ef_ZqCUBvw/feedshare-shrink_2048_1536/0/1657818236790?e=1691625600&v=beta&t=ECG09_ENKDIqqaboioqwNJDgwf10QI59l9RZIE_GX0c",
+      // image: "https://media.licdn.com/dms/image/C5622AQF4Ef_ZqCUBvw/feedshare-shrink_2048_1536/0/1657818236790?e=1691625600&v=beta&t=ECG09_ENKDIqqaboioqwNJDgwf10QI59l9RZIE_GX0c",
+      image : linuxworkshop,
       Linkedin_link: "https://www.linkedin.com/in/jayesh-gurav-6003a4215/"
     },
     {
@@ -377,7 +386,8 @@ import {
         },
         
       ],
-      image: "https://media.licdn.com/dms/image/C5622AQErS-J6FcmTqw/feedshare-shrink_1280/0/1668518875731?e=1691625600&v=beta&t=vobDBInGcRsHnhNMbh3pb3RmMWjh-UH8YM7lr3qy1UQ",
+      // image: "https://media.licdn.com/dms/image/C5622AQErS-J6FcmTqw/feedshare-shrink_1280/0/1668518875731?e=1691625600&v=beta&t=vobDBInGcRsHnhNMbh3pb3RmMWjh-UH8YM7lr3qy1UQ",
+      image: aerophilia,
       Linkedin_link: "https://www.linkedin.com/in/jayesh-gurav-6003a4215/"
     },
     {
