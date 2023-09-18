@@ -378,28 +378,28 @@ import {
       image: "https://www.dailyexcelsior.com/wp-content/uploads/2017/04/wal-mart.jpg",
       source_code_link: "https://github.com/Guravjayesh/Walmart_Data_Analysis",
     },
+    {
+      name: "Art Gallery Management system",
+      description:
+        "A database management system to digitize artworks from galleries, creating a platform to store and organize collections",
+      tags: [
+        {
+          name: "Java swings",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "JDBC",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Mysql",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: "https://d197irk3q85upd.cloudfront.net/catalog/product/cache/95dbdf78ad5a0d4b547132f80fbac8f3/e/x/exhibition_banner_1.jpg",
+      source_code_link: "https://github.com/Guravjayesh/",
+    }
     // {
-    //   name: "Art Gallery Management system",
-    //   description:
-    //     "A database management system to digitize artworks from galleries, creating a platform to store and organize collections",
-    //   tags: [
-    //     {
-    //       name: "Java swings",
-    //       color: "blue-text-gradient",
-    //     },
-    //     {
-    //       name: "JDBC",
-    //       color: "green-text-gradient",
-    //     },
-    //     {
-    //       name: "Mysql",
-    //       color: "pink-text-gradient",
-    //     },
-    //   ],
-    //   // image: "https://d197irk3q85upd.cloudfront.net/catalog/product/cache/95dbdf78ad5a0d4b547132f80fbac8f3/e/x/exhibition_banner_1.jpg",
-    //   image: "",
-    //   source_code_link: "https://github.com/Guravjayesh/",
-    // },{
     //   name: "Car Parking Space Counter",
     //   description:
     //     "Car Parking Space Counter to leverage surveillance footage to accurately count and display available free car parking spots",
