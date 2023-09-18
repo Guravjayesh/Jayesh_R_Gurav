@@ -36,7 +36,10 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import android from "./tech/android.png";
-import py from "./tech/py.png"
+import py from "./tech/py.png";
+import challengers from "./challengers.png";
+import coding_ninjas from "./coding_ninjas.png";
+import Gameplaying from "./Gameplaying.png"
 
 export {
   logo,
@@ -74,5 +77,8 @@ export {
   java,
   aerophilia,
   linuxworkshop,
-  c
+  c,
+  challengers,
+  coding_ninjas,
+  Gameplaying
 };

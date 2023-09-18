@@ -56,10 +56,10 @@ const About = () => {
       >
 
         <ul>
-          <li>I am 21 years old, currently in 3rd year (Graduating 2024), pursuing a career in AIML(CSE) from Sahyadri college of engineering Mangalore.
+          <li>I am 22 years old, currently in 4th year (Graduating 2024), pursuing a career in AIML(CSE) from Sahyadri college of engineering Mangalore.
             Born and brought up in Karwar karnataka, India.</li>
           <li>I have a deep interest in various domains of computer science. I have a strong background in Machine Learning and Data Science, and I
-            possess the ability to analyze complex data sets and derive meaningful insights from them.In addition,
+            possess the ability to analyze complex data sets and derive meaningful insights from them.Additionally,
             I am proficient in software development, web development and Android app development.</li>
           <li>I have worked on projects and have demonstrated my expertise in building good functional and user-friendly applications.My passion for these
             fields is evident from my dedication and commitment to my work. I am always eager to learn and keep myself updated with the latest technologies and trends in the industry
