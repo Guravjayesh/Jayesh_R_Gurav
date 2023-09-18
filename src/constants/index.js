@@ -398,26 +398,25 @@ import {
       ],
       image: "https://d197irk3q85upd.cloudfront.net/catalog/product/cache/95dbdf78ad5a0d4b547132f80fbac8f3/e/x/exhibition_banner_1.jpg",
       source_code_link: "https://github.com/Guravjayesh/",
-    }
-    // {
-    //   name: "Car Parking Space Counter",
-    //   description:
-    //     "Car Parking Space Counter to leverage surveillance footage to accurately count and display available free car parking spots",
-    //   tags: [
-    //     {
-    //       name: "Python",
-    //       color: "blue-text-gradient",
-    //     },
-    //     {
-    //       name: "Open cv",
-    //       color: "green-text-gradient",
-    //     },
+    },
+    {
+      name: "Car Parking Space Counter",
+      description:
+        "Car Parking Space Counter to leverage surveillance footage to accurately count and display available free car parking spots",
+      tags: [
+        {
+          name: "Python",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Open cv",
+          color: "green-text-gradient",
+        },
         
-    //   ],
-    //   // image: "https://www.geotab.com/CMS-Media-production/Blog/NA/_2020/Aug/reverse-parking/blog-why-reverse-parking-hero@2x.jpg",
-    //   image: "",
-    //   source_code_link: "https://github.com/Guravjayesh/",
-    // },
+      ],
+      image: "https://www.geotab.com/CMS-Media-production/Blog/NA/_2020/Aug/reverse-parking/blog-why-reverse-parking-hero@2x.jpg",
+      source_code_link: "https://github.com/Guravjayesh/",
+    }
     // {
     //   name: "Game Playing using Computer vision",
     //   description:
