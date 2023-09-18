@@ -29,10 +29,10 @@ import {
     aerophilia,
     linuxworkshop,
     c,
-    challengers,
-    coding_ninjas,
-    Gameplaying,
-    sahyadri
+    // challengers,
+    // coding_ninjas,
+    // Gameplaying,
+    // sahyadri
   } from "../assets";
   
   export const navLinks = [
@@ -378,64 +378,64 @@ import {
       image: "https://www.dailyexcelsior.com/wp-content/uploads/2017/04/wal-mart.jpg",
       source_code_link: "https://github.com/Guravjayesh/Walmart_Data_Analysis",
     },
-    {
-      name: "Art Gallery Management system",
-      description:
-        "A database management system to digitize artworks from galleries, creating a platform to store and organize collections",
-      tags: [
-        {
-          name: "Java swings",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "JDBC",
-          color: "green-text-gradient",
-        },
-        {
-          name: "Mysql",
-          color: "pink-text-gradient",
-        },
-      ],
-      // image: "https://d197irk3q85upd.cloudfront.net/catalog/product/cache/95dbdf78ad5a0d4b547132f80fbac8f3/e/x/exhibition_banner_1.jpg",
-      image: "",
-      source_code_link: "https://github.com/Guravjayesh/",
-    },{
-      name: "Car Parking Space Counter",
-      description:
-        "Car Parking Space Counter to leverage surveillance footage to accurately count and display available free car parking spots",
-      tags: [
-        {
-          name: "Python",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "Open cv",
-          color: "green-text-gradient",
-        },
+    // {
+    //   name: "Art Gallery Management system",
+    //   description:
+    //     "A database management system to digitize artworks from galleries, creating a platform to store and organize collections",
+    //   tags: [
+    //     {
+    //       name: "Java swings",
+    //       color: "blue-text-gradient",
+    //     },
+    //     {
+    //       name: "JDBC",
+    //       color: "green-text-gradient",
+    //     },
+    //     {
+    //       name: "Mysql",
+    //       color: "pink-text-gradient",
+    //     },
+    //   ],
+    //   // image: "https://d197irk3q85upd.cloudfront.net/catalog/product/cache/95dbdf78ad5a0d4b547132f80fbac8f3/e/x/exhibition_banner_1.jpg",
+    //   image: "",
+    //   source_code_link: "https://github.com/Guravjayesh/",
+    // },{
+    //   name: "Car Parking Space Counter",
+    //   description:
+    //     "Car Parking Space Counter to leverage surveillance footage to accurately count and display available free car parking spots",
+    //   tags: [
+    //     {
+    //       name: "Python",
+    //       color: "blue-text-gradient",
+    //     },
+    //     {
+    //       name: "Open cv",
+    //       color: "green-text-gradient",
+    //     },
         
-      ],
-      // image: "https://www.geotab.com/CMS-Media-production/Blog/NA/_2020/Aug/reverse-parking/blog-why-reverse-parking-hero@2x.jpg",
-      image: "",
-      source_code_link: "https://github.com/Guravjayesh/",
-    },
-    {
-      name: "Game Playing using Computer vision",
-      description:
-        "I automated game playing by detecting user actions on-screen using opencv and triggering key inputs using pyautogui to execute corresponding tasks",
-      tags: [
-        {
-          name: "Python",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "Open cv",
-          color: "green-text-gradient",
-        },
+    //   ],
+    //   // image: "https://www.geotab.com/CMS-Media-production/Blog/NA/_2020/Aug/reverse-parking/blog-why-reverse-parking-hero@2x.jpg",
+    //   image: "",
+    //   source_code_link: "https://github.com/Guravjayesh/",
+    // },
+    // {
+    //   name: "Game Playing using Computer vision",
+    //   description:
+    //     "I automated game playing by detecting user actions on-screen using opencv and triggering key inputs using pyautogui to execute corresponding tasks",
+    //   tags: [
+    //     {
+    //       name: "Python",
+    //       color: "blue-text-gradient",
+    //     },
+    //     {
+    //       name: "Open cv",
+    //       color: "green-text-gradient",
+    //     },
         
-      ],
-      image: Gameplaying,
-      source_code_link: "https://github.com/Guravjayesh/",
-    }
+    //   ],
+    //   image: Gameplaying,
+    //   source_code_link: "https://github.com/Guravjayesh/",
+    // }
   ];
 
   // Team Leading
@@ -492,36 +492,36 @@ import {
       image: "https://www.pantechelearning.com/wp-content/uploads/2021/02/Machine-Learning-Internship-05-02-2021.jpg",
       Linkedin_link: "https://www.linkedin.com/in/jayesh-gurav-6003a4215/"
     },
-    {
-      name: "Robotics team lead -Team challengers",
-      description:
-        "Team Challengers, a student club at our college, engages in project development through active participation in hackathons and events, while also organizing educational workshops and events. I had the privilege of serving as a team lead in the robotics domain for Team Challengers",
-      tags: [
-        {
-          name: "Team Challengers",
-          color: "blue-text-gradient",
-        },
+    // {
+    //   name: "Robotics team lead -Team challengers",
+    //   description:
+    //     "Team Challengers, a student club at our college, engages in project development through active participation in hackathons and events, while also organizing educational workshops and events. I had the privilege of serving as a team lead in the robotics domain for Team Challengers",
+    //   tags: [
+    //     {
+    //       name: "Team Challengers",
+    //       color: "blue-text-gradient",
+    //     },
         
         
-      ],
-      image: challengers,
-      Linkedin_link: "https://www.linkedin.com/in/jayesh-gurav-6003a4215/"
-    },
-    {
-      name: "Coding Ninja Enterpreneur",
-      description:
-        "As an Ninja entrepreneurial enthusiast, I successfully organized and facilitated prominent events and workshops within our college, featuring esteemed speakers sourced from Coding Ninjas, through a collaborative effort with the organization",
-      tags: [
+    //   ],
+    //   image: challengers,
+    //   Linkedin_link: "https://www.linkedin.com/in/jayesh-gurav-6003a4215/"
+    // },
+    // {
+    //   name: "Coding Ninja Enterpreneur",
+    //   description:
+    //     "As an Ninja entrepreneurial enthusiast, I successfully organized and facilitated prominent events and workshops within our college, featuring esteemed speakers sourced from Coding Ninjas, through a collaborative effort with the organization",
+    //   tags: [
         
-        {
-          name: "Coding Ninjas",
-          color: "green-text-gradient",
-        },
+    //     {
+    //       name: "Coding Ninjas",
+    //       color: "green-text-gradient",
+    //     },
         
-      ],
-      image: coding_ninjas,
-      Linkedin_link: "https://www.linkedin.com/in/jayesh-gurav-6003a4215/"
-    },
+    //   ],
+    //   image: coding_ninjas,
+    //   Linkedin_link: "https://www.linkedin.com/in/jayesh-gurav-6003a4215/"
+    // }
   ];
   
   export { services, technologies, experiences, testimonials, projects, Events };
