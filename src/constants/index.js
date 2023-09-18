@@ -417,24 +417,24 @@ import {
       image: "https://www.geotab.com/CMS-Media-production/Blog/NA/_2020/Aug/reverse-parking/blog-why-reverse-parking-hero@2x.jpg",
       source_code_link: "https://github.com/Guravjayesh/",
     },
-    {
-      name: "Game Playing using Computer vision",
-      description:
-        "I automated game playing by detecting user actions on-screen using opencv and triggering key inputs using pyautogui to execute corresponding tasks",
-      tags: [
-        {
-          name: "Python",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "Open cv",
-          color: "green-text-gradient",
-        },
+    // {
+    //   name: "Game Playing using Computer vision",
+    //   description:
+    //     "I automated game playing by detecting user actions on-screen using opencv and triggering key inputs using pyautogui to execute corresponding tasks",
+    //   tags: [
+    //     {
+    //       name: "Python",
+    //       color: "blue-text-gradient",
+    //     },
+    //     {
+    //       name: "Open cv",
+    //       color: "green-text-gradient",
+    //     },
         
-      ],
-      image: gp,
-      source_code_link: "https://github.com/Guravjayesh/",
-    }
+    //   ],
+    //   image: gp,
+    //   source_code_link: "https://github.com/Guravjayesh/",
+    // }
   ];
 
   // Team Leading
