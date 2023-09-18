@@ -216,27 +216,27 @@ import {
   ];
   
   const projects = [
-    {
-      name: "Vision Based Classroom Monitoring software",
-      description:
-        "ongoing project for our college (Sahyadri college of engineering) : Monitoring classrooms using AI, machine learning, and computer vision techniques",
-      tags: [
-        {
-          name: "Python",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "ML",
-          color: "green-text-gradient",
-        },
-        {
-          name: "computer vision",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: sahyadri,
-      source_code_link: "https://github.com/Guravjayesh/",
-    },
+    // {
+    //   name: "Vision Based Classroom Monitoring software",
+    //   description:
+    //     "ongoing project for our college (Sahyadri college of engineering) : Monitoring classrooms using AI, machine learning, and computer vision techniques",
+    //   tags: [
+    //     {
+    //       name: "Python",
+    //       color: "blue-text-gradient",
+    //     },
+    //     {
+    //       name: "ML",
+    //       color: "green-text-gradient",
+    //     },
+    //     {
+    //       name: "computer vision",
+    //       color: "pink-text-gradient",
+    //     },
+    //   ],
+    //   image: sahyadri,
+    //   source_code_link: "https://github.com/Guravjayesh/",
+    // },
     {
       name: "Lip Reading",
       description:
