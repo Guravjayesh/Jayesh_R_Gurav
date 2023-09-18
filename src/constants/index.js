@@ -413,6 +413,7 @@ import {
         },
         
       ],
+      // image: "https://www.geotab.com/CMS-Media-production/Blog/NA/_2020/Aug/reverse-parking/blog-why-reverse-parking-hero@2x.jpg",
       image: "https://www.geotab.com/CMS-Media-production/Blog/NA/_2020/Aug/reverse-parking/blog-why-reverse-parking-hero@2x.jpg",
       source_code_link: "https://github.com/Guravjayesh/",
     },
