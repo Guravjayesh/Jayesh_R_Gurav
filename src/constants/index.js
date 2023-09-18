@@ -31,7 +31,7 @@ import {
     c,
     // challengers,
     // coding_ninjas,
-    gp,
+    // gp,
     sahyadri
   } from "../assets";
   
