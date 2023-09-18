@@ -40,7 +40,7 @@ import py from "./tech/py.png";
 // import challengers from "./challengers.png";
 // import coding_ninjas from "./coding_ninjas.png";
 // import Gameplaying from "./Gameplaying.png"
-// import sahyadri from "./sahyadri.png"
+import sahyadri from "./sahyadri.png";
 
 export {
   logo,
@@ -82,5 +82,5 @@ export {
   // challengers,
   // coding_ninjas,
   // Gameplaying,
-  // sahyadri
+  sahyadri
 };
