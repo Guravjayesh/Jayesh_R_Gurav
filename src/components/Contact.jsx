@@ -80,7 +80,7 @@ const Contact = () => {
         <h5 className={styles.SectionWrapper}>Resume :</h5>
         <li className="hover:text-white text-[18px] font-medium cursor-pointer mb-2">
             <a href="https://drive.google.com/file/d/1MGBzxSTXa3RwTAb9DfU-9LlOX0EAsBES/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-            Kindly click the link to download my resume. 
+            Kindly click here to view my resume. 
             </a>
           </li>
         <h5 className={styles.SectionWrapper}>gmail :</h5>
