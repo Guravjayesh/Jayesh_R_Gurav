@@ -31,7 +31,7 @@ import {
     c,
     // challengers,
     // coding_ninjas,
-    Gameplaying,
+    gp,
     sahyadri
   } from "../assets";
   
@@ -432,7 +432,7 @@ import {
         },
         
       ],
-      image: Gameplaying,
+      image: gp,
       source_code_link: "https://github.com/Guravjayesh/",
     }
   ];
