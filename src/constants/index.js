@@ -473,24 +473,24 @@ import {
       image: aerophilia,
       Linkedin_link: "https://www.linkedin.com/in/jayesh-gurav-6003a4215/"
     },
-    {
-      name: "INTERNSHIP ON AI-ML-DL",
-      description:
-        "During the lockdown, I completed a 90-day internship in Machine Learning, Artificial Intelligence, and Data Analytics, gaining hands-on experience through diverse projects",
-      tags: [
-        {
-          name: "AI-ML-DL",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "Pantech Solutions",
-          color: "green-text-gradient",
-        },
+    // {
+    //   name: "INTERNSHIP ON AI-ML-DL",
+    //   description:
+    //     "During the lockdown, I completed a 90-day internship in Machine Learning, Artificial Intelligence, and Data Analytics, gaining hands-on experience through diverse projects",
+    //   tags: [
+    //     {
+    //       name: "AI-ML-DL",
+    //       color: "blue-text-gradient",
+    //     },
+    //     {
+    //       name: "Pantech Solutions",
+    //       color: "green-text-gradient",
+    //     },
         
-      ],
-      image: "https://www.pantechelearning.com/wp-content/uploads/2021/02/Machine-Learning-Internship-05-02-2021.jpg",
-      Linkedin_link: "https://www.linkedin.com/in/jayesh-gurav-6003a4215/"
-    },
+    //   ],
+    //   image: "https://www.pantechelearning.com/wp-content/uploads/2021/02/Machine-Learning-Internship-05-02-2021.jpg",
+    //   Linkedin_link: "https://www.linkedin.com/in/jayesh-gurav-6003a4215/"
+    // },
     // {
     //   name: "Robotics team lead -Team challengers",
     //   description:
