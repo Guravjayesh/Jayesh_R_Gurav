@@ -38,7 +38,7 @@ import tripguide from "./tripguide.png";
 import android from "./tech/android.png";
 import py from "./tech/py.png";
 import challengers from "./challengers.png";
-import coding_ninjas from "./coding_ninjas.png";
+// import coding_ninjas from "./coding_ninjas.png";
 // import gp from "./gp.png";
 import sahyadri from "./sahyadri.png";
 
@@ -81,7 +81,7 @@ export {
   linuxworkshop,
   c,
   challengers,
-  coding_ninjas,
+  // coding_ninjas,
   // gp,
   sahyadri
 };

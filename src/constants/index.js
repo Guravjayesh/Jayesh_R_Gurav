@@ -30,7 +30,7 @@ import {
     linuxworkshop,
     c,
     challengers,
-    coding_ninjas,
+    // coding_ninjas,
     // gp,
     sahyadri
   } from "../assets";
@@ -506,21 +506,21 @@ import {
       image: challengers,
       Linkedin_link: "https://www.linkedin.com/in/jayesh-gurav-6003a4215/"
     },
-    {
-      name: "Coding Ninja Enterpreneur",
-      description:
-        "As an Ninja entrepreneurial enthusiast, I successfully organized and facilitated prominent events and workshops within our college, featuring esteemed speakers sourced from Coding Ninjas, through a collaborative effort with the organization",
-      tags: [
+    // {
+    //   name: "Coding Ninja Enterpreneur",
+    //   description:
+    //     "As an Ninja entrepreneurial enthusiast, I successfully organized and facilitated prominent events and workshops within our college, featuring esteemed speakers sourced from Coding Ninjas, through a collaborative effort with the organization",
+    //   tags: [
         
-        {
-          name: "Coding Ninjas",
-          color: "green-text-gradient",
-        },
+    //     {
+    //       name: "Coding Ninjas",
+    //       color: "green-text-gradient",
+    //     },
         
-      ],
-      image: coding_ninjas,
-      Linkedin_link: "https://www.linkedin.com/in/jayesh-gurav-6003a4215/"
-    }
+    //   ],
+    //   image: coding_ninjas,
+    //   Linkedin_link: "https://www.linkedin.com/in/jayesh-gurav-6003a4215/"
+    // }
   ];
   
   export { services, technologies, experiences, testimonials, projects, Events };
