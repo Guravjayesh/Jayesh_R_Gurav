@@ -29,8 +29,8 @@ import {
     aerophilia,
     linuxworkshop,
     c,
-    // challengers,
-    // coding_ninjas,
+    challengers,
+    coding_ninjas,
     // gp,
     sahyadri
   } from "../assets";
@@ -491,36 +491,36 @@ import {
       image: "https://www.pantechelearning.com/wp-content/uploads/2021/02/Machine-Learning-Internship-05-02-2021.jpg",
       Linkedin_link: "https://www.linkedin.com/in/jayesh-gurav-6003a4215/"
     },
-    // {
-    //   name: "Robotics team lead -Team challengers",
-    //   description:
-    //     "Team Challengers, a student club at our college, engages in project development through active participation in hackathons and events, while also organizing educational workshops and events. I had the privilege of serving as a team lead in the robotics domain for Team Challengers",
-    //   tags: [
-    //     {
-    //       name: "Team Challengers",
-    //       color: "blue-text-gradient",
-    //     },
+    {
+      name: "Robotics team lead -Team challengers",
+      description:
+        "Team Challengers, a student club at our college, engages in project development through active participation in hackathons and events, while also organizing educational workshops and events. I had the privilege of serving as a team lead in the robotics domain for Team Challengers",
+      tags: [
+        {
+          name: "Team Challengers",
+          color: "blue-text-gradient",
+        },
         
         
-    //   ],
-    //   image: challengers,
-    //   Linkedin_link: "https://www.linkedin.com/in/jayesh-gurav-6003a4215/"
-    // },
-    // {
-    //   name: "Coding Ninja Enterpreneur",
-    //   description:
-    //     "As an Ninja entrepreneurial enthusiast, I successfully organized and facilitated prominent events and workshops within our college, featuring esteemed speakers sourced from Coding Ninjas, through a collaborative effort with the organization",
-    //   tags: [
+      ],
+      image: challengers,
+      Linkedin_link: "https://www.linkedin.com/in/jayesh-gurav-6003a4215/"
+    },
+    {
+      name: "Coding Ninja Enterpreneur",
+      description:
+        "As an Ninja entrepreneurial enthusiast, I successfully organized and facilitated prominent events and workshops within our college, featuring esteemed speakers sourced from Coding Ninjas, through a collaborative effort with the organization",
+      tags: [
         
-    //     {
-    //       name: "Coding Ninjas",
-    //       color: "green-text-gradient",
-    //     },
+        {
+          name: "Coding Ninjas",
+          color: "green-text-gradient",
+        },
         
-    //   ],
-    //   image: coding_ninjas,
-    //   Linkedin_link: "https://www.linkedin.com/in/jayesh-gurav-6003a4215/"
-    // }
+      ],
+      image: coding_ninjas,
+      Linkedin_link: "https://www.linkedin.com/in/jayesh-gurav-6003a4215/"
+    }
   ];
   
   export { services, technologies, experiences, testimonials, projects, Events };
