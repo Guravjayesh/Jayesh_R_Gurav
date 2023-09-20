@@ -518,7 +518,8 @@ import {
         },
         
       ],
-      image: coding_ninjas,
+      // image: coding_ninjas,
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK9e1OvR_Nlb0Q1B-wO4iMDeRia0JyNNEJUA&usqp=CAU",
       Linkedin_link: "https://www.linkedin.com/in/jayesh-gurav-6003a4215/"
     }
   ];
