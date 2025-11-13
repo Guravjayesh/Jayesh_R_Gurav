@@ -336,7 +336,8 @@ import {
         // },
       ],
       // image: "https://play-lh.googleusercontent.com/s89R4abQQ92FS18ISsDRHMlBiw4jmDibyhH8YhTOYr6DvdKEwlXc62rf9VqDNU22ETg=w526-h296-rw",
-      image: "https://www.smartprix.com/bytes/wp-content/uploads/2022/08/WhatsApp-about.png",
+      // image: "https://www.smartprix.com/bytes/wp-content/uploads/2022/08/WhatsApp-about.png",
+        image: "https://img.freepik.com/free-psd/social-media-logo-design_23-2151296979.jpg"
       source_code_link: "https://github.com/Guravjayesh/WhatsappChat-Analyzer--updated-version",
     },
     {
